@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "swifties",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "site_id": 1, "easting": 375680, "northing": 5375719 }, "geometry": { "type": "Point", "coordinates": [ 145.504486741026454, -41.760621033864069 ] } },
+{ "type": "Feature", "properties": { "site_id": 2, "easting": 375926, "northing": 5376140 }, "geometry": { "type": "Point", "coordinates": [ 145.507532902085785, -41.756868832762052 ] } },
+{ "type": "Feature", "properties": { "site_id": 3, "easting": 375499, "northing": 5375070 }, "geometry": { "type": "Point", "coordinates": [ 145.502174174907424, -41.766436242753528 ] } },
+{ "type": "Feature", "properties": { "site_id": 4, "easting": 375644, "northing": 5374488 }, "geometry": { "type": "Point", "coordinates": [ 145.503796262076435, -41.771699270288295 ] } },
+{ "type": "Feature", "properties": { "site_id": 5, "easting": 375684, "northing": 5375770 }, "geometry": { "type": "Point", "coordinates": [ 145.504545507514791, -41.760162457609425 ] } },
+{ "type": "Feature", "properties": { "site_id": 6, "easting": 375775, "northing": 5376095 }, "geometry": { "type": "Point", "coordinates": [ 145.50570773417229, -41.757250406227989 ] } },
+{ "type": "Feature", "properties": { "site_id": 7, "easting": 375898, "northing": 5374941 }, "geometry": { "type": "Point", "coordinates": [ 145.506945904156339, -41.76766022741829 ] } }
+]
+}
